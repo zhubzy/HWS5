@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=College
+comment1.params=name\ count\ ranking
+comment1.target=College(java.lang.String,\ int,\ int)
+comment2.params=
+comment2.target=java.lang.String\ getSchoolInfo()
+numComments=3
