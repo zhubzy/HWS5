@@ -5,7 +5,7 @@ public class TicketDriver
       {
       Ticket walkup1 = new Walkup();
       Ticket advance1 = new Advance( 14 );            // 14 days
-      Ticket stuAdvance1 = new StudentAdvance(  12 ); // 12 days
+      Ticket stuAdvance1 = new StudentAdvance(12 ); // 12 days
       
       
       ArrayList<Ticket> ticketHolder = new ArrayList<Ticket>();

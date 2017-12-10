@@ -1,6 +1,7 @@
 #BlueJ class context
-comment0.params=initialDays
-comment0.target=Advance(int)
-comment1.params=
-comment1.target=double\ getPrice()
-numComments=2
+comment0.target=Advance
+comment1.params=day
+comment1.target=Advance(int)
+comment2.params=
+comment2.target=double\ getPrice()
+numComments=3
