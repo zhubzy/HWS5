@@ -1,10 +1,9 @@
 #BlueJ class context
-comment0.params=initialSandwich\ initialSalad\ initialDrink
-comment0.target=Trio(Sandwich,\ Salad,\ Drink)
-comment1.params=
-comment1.target=java.lang.String\ getName()
+comment0.target=Trio
+comment1.params=sw\ sa\ dr
+comment1.target=Trio(Sandwich,\ Salad,\ Drink)
 comment2.params=
 comment2.target=double\ getPrice()
 comment3.params=
-comment3.target=java.lang.String\ toString()
+comment3.target=java.lang.String\ getName()
 numComments=4
