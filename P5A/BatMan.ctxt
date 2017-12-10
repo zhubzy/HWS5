@@ -1,0 +1,9 @@
+#BlueJ class context
+comment0.target=BatMan
+comment1.params=
+comment1.target=BatMan()
+comment2.params=
+comment2.target=void\ makebat()
+comment3.params=
+comment3.target=java.lang.String\ getMotto()
+numComments=4
